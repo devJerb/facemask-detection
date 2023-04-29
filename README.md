@@ -26,6 +26,3 @@ names: ['with_mask', 'without_mask', 'mask_weared_incorrect']
 # parameters
 nc: 3  # number of classes
 ```
-
-## Conclusion
-The project was to demonstrate the usage of a custom dataset for YOLOv7 model on facemask detection made on Google Colab.
