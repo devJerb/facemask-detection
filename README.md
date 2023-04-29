@@ -7,6 +7,9 @@ The dataset used in the project is available on [Kaggle](https://www.kaggle.com/
 ## Installation
 Found on the repository is a [.ipynb](https://github.com/devJerb/facemask-detection/blob/main/facemask_detection.ipynb) file containing the set of instructions in order to run the facemask detection model.
 
+You can clone the repository to your local machine
+`git clone https://github.com/devJerb/facemask-detection.git`
+
 1. Content found on `masks.yaml` placed inside the directory of /data.
 ```
 train: ./train
