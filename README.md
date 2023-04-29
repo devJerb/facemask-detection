@@ -13,7 +13,7 @@ Found on the repository is a [.ipynb](https://github.com/devJerb/facemask-detect
 
 You can clone the repository to your local machine
 
-`git clone https://github.com/devJerb/facemask-detection.git`
+`git clone https://github.com/<username>/facemask-detection.git`
 
 1. Content found on `masks.yaml` placed inside the directory of /data.
 ```
