@@ -1,10 +1,9 @@
-# -*- coding: utf-8 -*-
-# terminal commands
+# terminal command
 # git clone https://github.com/devJerb/yolov7.git
 
 # move inside the directory of yolov7
 
-# terminal commands
+# terminal command
 # cd yolov7
 # pip install -r requirements.txt
 # pip install roboflow
